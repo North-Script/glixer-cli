@@ -1,0 +1,3 @@
+[submodule "glixer"]
+	path = glixer
+	url = https://github.com/northscript/glixer

@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var glixer = require('../lib/glixer.js');
+glixer.run();

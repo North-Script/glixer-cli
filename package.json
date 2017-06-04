@@ -1,0 +1,19 @@
+{
+  "name": "glixer-cli",
+  "version": "0.0.0",
+  "description": "CLI tool for managing and creating Glixer Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northscript/glixer-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/northscript/glixer-cli/issues"
+  },
+  "homepage": "https://github.com/northscript/glixer-cli#readme"
+}
